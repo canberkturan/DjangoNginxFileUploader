@@ -16,5 +16,6 @@ and press enter
 
 ## How to stop
 ``` bash
-docker-compose down -v (-v parameter deletes virtual networks and volumes)
+docker-compose down -v 
 ```
+NOTE: -v parameter deletes virtual networks and volumes
